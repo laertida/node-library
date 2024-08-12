@@ -7,5 +7,10 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+      "@laertida:registry": "https://npm.pkg.github.com"
+    }
+
+
 }
